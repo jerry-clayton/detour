@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Detour Dynamic Routing</string>
+    <string name="title_activity_maps">Detour</string>
+    <string name="gas_button">Find Gas</string>
+</resources>
