@@ -1,8 +1,5 @@
-# fp-detour
-Detour Final Project
+#Detour-A dynamic route planning app.
 
+This is the skeleton/test version.
 
-tqtran 
-jdclayton 
-jrpegg 
-sdkolbus
+Authors - @s-knob, @ttran0095, @sdkolbus, @jerpeggy
